@@ -23,7 +23,7 @@
         </ul>
         <h2>Circuit Diagram</h2>
         <div class="image-container">
-            <img src="how_to_make_a_underground_cable_fault_detection_using_arduino_eMyEnMAEBE.png" alt="Underground Cable Fault Detection Circuit Diagram">
+            <img src="How to make a Underground Cable Fault Detection using Arduino.png" alt="Underground Cable Fault Detection Circuit Diagram">
         </div>
         <h2>Working Principle</h2>
         <p>The system works by sending a signal through the cable and measuring the return signal. If a fault is detected, the location of the fault is displayed on the LCD screen. The fault is indicated by turning on the corresponding LED and sounding a buzzer.</p>
